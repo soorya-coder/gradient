@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#444444</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="gba1">#C0FEFC</color>
+    <color name="gba2">#3EDBF0</color>
+
+    <color name="gbb1">#D8CCE0</color>
+    <color name="gbb2">#85A4BA</color>
+
+    <color name="gyr1">#F9E466</color>
+    <color name="gyr2">#F8626D</color>
+
+    <color name="gsb1">#EFF3DA</color>
+    <color name="gsb2">#93C8CB</color>
+
+    <color name="ggl1">#cdf0ea</color>
+    <color name="ggl2">#cbebce</color>
+
+    <color name="gva1">#f7dbf0</color>
+    <color name="gva2">#beaee2</color>
+
+    <color name="grv1">#ffabe1</color>
+    <color name="grv2">#a685e2</color>
+
+    <color name="gra1">#fbaccc</color>
+    <color name="gra2">#f875aa</color>
+
+    <color name="gog1">#b6eb7a</color>
+    <color name="gog2">#f8ca84</color>
+
+    <color name="gbr1">#bad7df</color>
+    <color name="gbr2">#ffe2e2</color>
+
+    <color name="gbv1">#b4deff</color>
+    <color name="gbv2">#c9b8ff</color>
+
+    <color name="gsv1">#f9dcc4</color>
+    <color name="gsv2">#dfb2f4</color>
+
+    <color name="gyg1">#fddb81</color>
+    <color name="gyg2">#a8d67e</color>
+
+    <color name="gbc1">#b9defe</color>
+    <color name="gbc2">#199ef3</color>
+
+    <color name="gga1">#e6eae9</color>
+    <color name="gga2">#c4cccf</color>
+
+    <color name="grb1">#eccec4</color>
+    <color name="grb2">#e3919d</color>
+
+    <color name="gya1">#f9c2a4</color>
+    <color name="gya2">#b78152</color>
+
+    <color name="ggr1">#e5e5e5</color>
+    <color name="ggr2">#ff8296</color>
+
+    <color name="grd1">#fe68a8</color>
+    <color name="grd2">#3869c8</color>
+
+    <color name="gyv1">#ffda58</color>
+    <color name="gyv2">#cf95fb</color>
+
+    <color name="ggb1">#e2f5b8</color>
+    <color name="ggb2">#acd156</color>
+
+    <color name="gbo1">#aeecf8</color>
+    <color name="gbo2">#ff925a</color>
+
+    <color name="gsr1">#febebe</color>
+    <color name="gsr2">#6a7ad1</color>
+
+
+    <color name="nya1">#FDEB71</color>
+    <color name="nya2">#F8D800</color>
+
+    <color name="nba1">#ABDCFF</color>
+    <color name="nba2">#0396FF</color>
+
+    <color name="noa1">#FEB692</color>
+    <color name="noa2">#EA5455</color>
+
+    <color name="nva1">#CE9FFC</color>
+    <color name="nva2">#7367F0</color>
+
+    <color name="ngb1">#90F7EC</color>
+    <color name="ngb2">#32CCBC</color>
+
+    <color name="nra1">#FFF6B7</color>
+    <color name="nra2">#F6416C</color>
+
+    <color name="nga1">#81FBB8</color>
+    <color name="nga2">#28C76F</color>
+
+    <color name="nvb1">#E2B0FF</color>
+    <color name="nvb2">#9F44D3</color>
+
+    <color name="nvc1">#43CBFF</color>
+    <color name="nvc2">#9708CC</color>
+
+    <color name="nbb1">#5EFCE8</color>
+    <color name="nbb2">#736EFE</color>
+
+    <color name="nob1">#FAD7A1</color>
+    <color name="nob2">#E96D71</color>
+
+    <color name="nsa1">#F6CEEC</color>
+    <color name="nsa2">#D939CD</color>
+
+    <color name="nyb1">#FFE985</color>
+    <color name="nyb2">#FA742B</color>
+
+    <color name="noc1">#FFAA85</color>
+    <color name="noc2">#B3315F</color>
+
+    <color name="nsb1">#FF96F9</color>
+    <color name="nsb2">#C32BAC</color>
+
+    <color name="nec1">#f1dfd1</color>
+    <color name="nec2">#f6f0ea</color>
+
+    <color name="nog1">#ffcc7b</color>
+    <color name="nog2">#61c589</color>
+
+    <color name="nna1">#eabf9f</color>
+    <color name="nna2">#b68973</color>
+
+    <color name="nbc1">#9df3c4</color>
+    <color name="nbc2">#62d2a2</color>
+
+    <color name="nvd1">#7984ee</color>
+    <color name="nvd2">#6730ec</color>
+
+    <color name="nsc1">#ffb99a</color>
+    <color name="nsc2">#db3056</color>
+
+    <color name="nyc1">#faebd1</color>
+    <color name="nyc2">#f7db69</color>
+
+    <color name="nbd1">#a1cadc</color>
+    <color name="nbd2">#5997ac</color>
+
+    <color name="nve1">#d0a9d1</color>
+    <color name="nve2">#9c77b0</color>
+
+    <color name="ngd1">#50c19c</color>
+    <color name="ngd2">#288367</color>
+
+    <color name="nsd1">#ffe9ce</color>
+    <color name="nsd2">#ff92a4</color>
+
+    <color name="nge1">#8ddbaa</color>
+    <color name="nge2">#d5f592</color>
+
+</resources>
